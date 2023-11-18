@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: lazyfit
 Version: 0.1.0
-Summary: An NLP python package for computing Boilerplate score and many other text features.
+Summary: A python package that helps with the construction and optimization of RBF interpolants.
 Home-page: https://github.com/redhorn144/lazyfit.git
 Author: Alex Shaffer
 Author-email: alex.shaffer144@gmail.com
@@ -115,8 +115,8 @@ Description: <!---
         
         # CHANGELOG
         
-        ## Version 0.1.0 MM/DD/YYYY
-        1. Upaded: First log.
+        ## Version 0.1.1 11/18/2023
+        1. Updated: Changed the description.
         2. Fixed:
         3. ...
         
