@@ -10,7 +10,7 @@ setup(
     
     version = '0.1.0',
     
-    description = 'An NLP python package for computing Boilerplate score and many other text features.',
+    description = 'A python package that helps with the construction and optimization of RBF interpolants.',
     
     package_dir = {'':'src'},
     
