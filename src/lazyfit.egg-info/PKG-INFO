@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: lazyfit
-Version: 0.1.0
+Version: 0.1.1
 Summary: A python package that helps with the construction and optimization of RBF interpolants.
 Home-page: https://github.com/redhorn144/lazyfit.git
 Author: Alex Shaffer
