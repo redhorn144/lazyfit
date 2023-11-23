@@ -34,7 +34,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
-        "License :: OSI Approved :: BSD License",
+        "License :: OSI Approved :: MIT License",
         'Intended Audience :: Developers',
         'Intended Audience :: Other Audience',
         'Intended Audience :: Science/Research',
