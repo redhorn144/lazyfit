@@ -8,7 +8,7 @@ setup(
     
     name = 'lazyfit', 
     
-    version = '0.1.1',
+    version = '0.1.2',
     
     description = 'A python package that helps with the construction and optimization of RBF interpolants.',
     
